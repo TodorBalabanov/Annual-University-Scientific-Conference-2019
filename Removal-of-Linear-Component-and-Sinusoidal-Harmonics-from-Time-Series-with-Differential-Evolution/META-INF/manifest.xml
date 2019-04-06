@@ -3,6 +3,11 @@
  <manifest:file-entry manifest:full-path="/" manifest:version="1.2" manifest:media-type="application/vnd.oasis.opendocument.text"/>
  <manifest:file-entry manifest:full-path="Thumbnails/thumbnail.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="layout-cache" manifest:media-type="application/binary"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000000000002F400000237D30EE167E4A1C4C5.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000000000002F400000237682C5413A2F569A6.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000201000003520000024E21E7254F87075F05.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000000000002F400000237B2542ECF84335C77.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/1000020100000222000002225B3566E438E848FE.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="content.xml" manifest:media-type="text/xml"/>
  <manifest:file-entry manifest:full-path="Configurations2/" manifest:media-type="application/vnd.sun.xml.ui.configuration"/>
  <manifest:file-entry manifest:full-path="manifest.rdf" manifest:media-type="application/rdf+xml"/>
